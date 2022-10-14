@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        ".venv": true,
+        "**/__pycache__": true,
+        "**/.ipynb_checkpoints": true,
+    },
+    "python.formatting.provider": "black",
+}
